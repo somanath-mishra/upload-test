@@ -3,3 +3,6 @@
 ################################################################################
 
 /CaptivePortal.Services/packages
+/CaptivePortal.Services/CaptivePortal.Services.Tests/obj/Debug
+/CaptivePortal.Services/CaptivePortal.Services/bin
+/CaptivePortal.Services/CaptivePortal.Services/obj/Debug
