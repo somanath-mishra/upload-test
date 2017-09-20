@@ -1,7 +1,7 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-//CaptivePortal.Services/.vs/Config
+/CaptivePortal.Services/.vs/Config
 /CaptivePortal.Services/packages
 /CaptivePortal.Services/CaptivePortal.Services.Tests/obj/Debug
 /CaptivePortal.Services/CaptivePortal.Services/bin
